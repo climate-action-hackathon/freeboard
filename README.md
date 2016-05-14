@@ -179,3 +179,7 @@ $(function()
 Copyright © 2013 Jim Heising (https://github.com/jheising)<br/>Copyright © 2013 Bug Labs, Inc. (http://buglabs.net)<br/>Licensed under the **MIT** license.
 
 ---
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/climate-action-hackathon/freeboard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
